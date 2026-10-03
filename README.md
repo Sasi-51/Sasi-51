@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding"width="400"src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasi-51&label=Profile%20views&color=315aaa&style=plastic" alt="sasi-51" /> </p>
+![](https://komarev.com/ghpvc/?username=Sasi-51&label=Profile+views&color=315aaa&style=plastic)
 
 - 📫 How to reach me **knamasvi30@gmail.com**
 
