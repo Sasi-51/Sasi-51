@@ -3,13 +3,20 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding"width="400"src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sasi-51&label=Profile%20views&color=315aaa&style=plastic" alt="sasi-51" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasi-51&label=Profile%20views&color=315aaa&style=plastic" alt="sasi-51" /> </p>
 
 - 📫 How to reach me **knamasvi30@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/k sasidhar](https://www.linkedin.com/in/k-sasidhar-485112395/?isSelfProfile=true)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="k sasidhar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/k-sasidhar-485112395/" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="k sasidhar"
+       height="30"
+       width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
